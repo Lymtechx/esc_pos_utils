@@ -1,5 +1,11 @@
 # esc_pos_utils
 
+## Why this Fork
+
+This library has been forked from [esc_pos_utils](https://github.com/andrey-ushakov/esc_pos_utils) to support null safety.
+
+----
+
 [![Pub Version](https://img.shields.io/pub/v/esc_pos_utils)](https://pub.dev/packages/esc_pos_utils)
 
 Base Flutter/Dart classes for ESC/POS printing. `Generator` class generates ESC/POS commands that can be sent to a thermal printer.
